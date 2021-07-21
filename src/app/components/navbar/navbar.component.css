@@ -1,0 +1,6 @@
+.btn-danger:hover{
+ background: rgba(100, 7, 7, 0.89);
+ width: 200px;
+ border: none;
+ 
+}
